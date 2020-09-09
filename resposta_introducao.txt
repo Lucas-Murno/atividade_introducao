@@ -1,0 +1,23 @@
+Lucas Murno Guercio
+1460682023018
+
+Sistema Computacional : Vegas Pro
+Dados : Projeto de vídeo, Abrir arquivos, Renderizar vídeo
+Informação : Colocar um ou vários vídeos gravados para edição no programa, com possibilidades de colocar imagens ou efeitos para acrescentar detalhes ou melhorar algum aspecto do vídeo  
+Conhecimento : Edição de vídeo com liberdade de mexer tanto o vídeo quanto o áudio pondo efeitos de vídeo ou mexendo nas mixagens de áudio.
+
+Site utilizado para a atividade : https://www.invertexto.com/codigo-binario
+
+L = 76 / S = 01001100
+U = 85 / S = 01010101 
+C = 67 / S = 01000011 
+A = 65 / S = 01000001 
+S = 83 / S = 01010011 
+
+G = 71 / S = 01000111 
+U = 85 / S = 01010101 
+E = 69 / S = 01000101 
+R = 82 / S = 01010010 
+C = 67 / S = 01000011 
+I = 73 / S = 01001001 
+O = 79 / S = 01001111 
